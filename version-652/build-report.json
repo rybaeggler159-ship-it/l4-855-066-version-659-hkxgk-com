@@ -1,0 +1,21 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2015,
+  "category_pages": 8,
+  "category_card_total": 2000,
+  "movies_page_cards": 2000,
+  "detail_players": 2000,
+  "analytics_missing": [],
+  "category_counts": {
+    "classic-drama": 250,
+    "action-adventure": 250,
+    "suspense-crime": 250,
+    "romance-emotion": 250,
+    "comedy-life": 250,
+    "fantasy-sci-fi": 250,
+    "documentary-variety": 250,
+    "series-selection": 250
+  },
+  "m3u8_sources": 20
+}
